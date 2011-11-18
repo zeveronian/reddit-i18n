@@ -61,7 +61,7 @@ msgstr "din e-post har uppdaterats"
 
 #: r2/controllers/api.py:607
 msgid "your email and password have been updated"
-msgstr "din e-post  och ditt lösenord har uppdaterats "
+msgstr "din e-post och ditt lösenord har uppdaterats "
 
 #: r2/controllers/api.py:610
 msgid "your password has been updated"
@@ -100,15 +100,15 @@ msgstr "för många bilder (högst %d stycken)"
 
 #: r2/controllers/api.py:1207
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Ogiltig bild eller generellt bildfel"
 
 #: r2/controllers/api.py:1637
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "mottaget! gå nu till någons användarsida och ge dem en present!"
 
 #: r2/controllers/api.py:1642
 msgid "claimed!"
-msgstr ""
+msgstr "mottaget!"
 
 #: r2/controllers/api.py:1658
 msgid "an email will be sent to that account's address shortly"
@@ -116,19 +116,19 @@ msgstr "e-post kommer skickas till det kontos adress inom kort"
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "pröva igen imorgon"
 
 #: r2/controllers/api.py:1905 r2/controllers/api.py:2066
 msgid "invalid css class"
-msgstr ""
+msgstr "ogiltig css klass"
 
 #: r2/controllers/api.py:1908 r2/controllers/api.py:2069
 msgid "too many css classes"
-msgstr ""
+msgstr "för många css klasser"
 
 #: r2/controllers/api.py:2085
 msgid "max flair templates reached"
-msgstr ""
+msgstr "max antal stilmallar nådd"
 
 #: r2/controllers/api.py:2303
 msgid "redirecting..."
@@ -211,11 +211,11 @@ msgstr "det användarnamnet är upptaget"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "det användarnamnet är taget av ett borttaget konto"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "du kan inte skicka till en användare som du har blockerat"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -227,7 +227,7 @@ msgstr "du kan inte göra det där"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "du är inte inloggad som den användaren"
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
@@ -316,7 +316,7 @@ msgstr "du har inte tillåtelse att posta där."
 
 #: r2/controllers/errors.py:60
 msgid "you must specify a subreddit"
-msgstr ""
+msgstr "du måste ange en under-reddit"
 
 #: r2/controllers/errors.py:61
 msgid "that name isn't going to work"
@@ -325,7 +325,7 @@ msgstr "det namnet kommer inte att fungera"
 #: r2/controllers/errors.py:62
 #, python-format
 msgid "you are doing that too much. try again in %(time)s."
-msgstr ""
+msgstr "du gör det där för mycket. pröva igen om %(time)s."
 
 #: r2/controllers/errors.py:63
 msgid "your session has expired"
@@ -399,43 +399,43 @@ msgstr "vi behöver något här"
 
 #: r2/controllers/errors.py:82
 msgid "we've never seen that code before"
-msgstr ""
+msgstr "vi har aldrig sett den där koden förut"
 
 #: r2/controllers/errors.py:83
 msgid "that code has already been claimed -- perhaps by you?"
-msgstr ""
+msgstr "den koden har redan blivit tagen -- av dig kanske?"
 
 #: r2/controllers/errors.py:84
 msgid "that reddit doesn't allow text posts"
-msgstr ""
+msgstr "den reddit:en tillåter inte textinlägg"
 
 #: r2/controllers/errors.py:85
 msgid "that reddit only allows text posts"
-msgstr ""
+msgstr "den reddit:en tillåter bara textinlägg"
 
 #: r2/controllers/errors.py:86
 msgid "that's a piece of history now; it's too late to reply to it"
-msgstr ""
+msgstr "det där är historia; det är för sent att svara"
 
 #: r2/controllers/errors.py:87
 msgid "invalid css name"
-msgstr ""
+msgstr "ogiltigt css namn"
 
 #: r2/controllers/errors.py:88
 msgid "too many flair css classes"
-msgstr ""
+msgstr "för många stil css klasser"
 
 #: r2/controllers/errors.py:89
 msgid "invalid client id"
-msgstr ""
+msgstr "ogiltigt klient id"
 
 #: r2/controllers/errors.py:90
 msgid "access denied by the user"
-msgstr ""
+msgstr "tillgång nekad av användaren"
 
 #: r2/controllers/errors.py:91
 msgid "please confirm the form"
-msgstr ""
+msgstr "var god konfirmera formuläret"
 
 #: r2/controllers/feedback.py:40
 msgid "help translate reddit into your language"
@@ -451,27 +451,27 @@ msgstr "självhjälp"
 
 #: r2/controllers/front.py:304
 msgid "no comments (yet)"
-msgstr ""
+msgstr "inga kommentarer (än)"
 
 #: r2/controllers/front.py:306
 #, python-format
 msgid "all %d comments"
-msgstr ""
+msgstr "alla %d kommentarer"
 
 #: r2/controllers/front.py:308
 #, python-format
 msgid "top %d comments"
-msgstr ""
+msgstr "bästa %d kommentarerna"
 
 #: r2/controllers/front.py:331
 #, python-format
 msgid "show all %d"
-msgstr ""
+msgstr "visa alla %d"
 
 #: r2/controllers/front.py:333
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "visa %d"
 
 #: r2/controllers/front.py:349
 msgid "create a reddit"
@@ -479,7 +479,7 @@ msgstr "skapa en reddit"
 
 #: r2/controllers/front.py:351 r2/templates/createsubreddit.html:49
 msgid "create a community"
-msgstr ""
+msgstr "skapa en community"
 
 #: r2/controllers/front.py:529 r2/lib/menus.py:142
 msgid "awards"
@@ -516,7 +516,7 @@ msgstr "återställ lösenord"
 
 #: r2/controllers/front.py:1012 r2/controllers/post.py:161
 msgid "opt out"
-msgstr ""
+msgstr "välj bort"
 
 #: r2/controllers/front.py:1012 r2/controllers/post.py:171
 msgid "welcome back"
@@ -524,24 +524,24 @@ msgstr "välkommen tillbaka"
 
 #: r2/controllers/front.py:1042
 msgid "thanks"
-msgstr ""
+msgstr "tack"
 
 #: r2/controllers/front.py:1075 r2/controllers/front.py:1097
 #: r2/lib/menus.py:101 r2/templates/gold.html:83
 msgid "reddit gold"
-msgstr ""
+msgstr "reddit guld"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr ""
+msgstr "bra försök."
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
-msgstr ""
+msgstr "guldt har blivit levererat!"
 
 #: r2/controllers/ipn.py:449
 msgid "thanks for buying reddit gold!"
-msgstr ""
+msgstr "tack för att du har köpt reddit guld!"
 
 #: r2/controllers/ipn.py:459 r2/templates/thanks.html:32
 msgid "thanks for buying creddits!"
@@ -553,12 +553,12 @@ msgstr ""
 
 #: r2/controllers/ipn.py:473
 msgid "thanks for giving reddit gold!"
-msgstr ""
+msgstr "tack för att du har köpt reddit guld som en gåva!"
 
 #: r2/controllers/ipn.py:474
 #, python-format
 msgid "Your gift to %s has been delivered."
-msgstr ""
+msgstr "Din gåva till %s har levererats."
 
 #: r2/controllers/listingcontroller.py:348
 msgid "newest submissions"
